@@ -18,8 +18,9 @@ jobs:
           LOCALE: "en"
           COMMIT_MESSAGE: "📊 Update Wakatime stats"
           SHOW_UPDATED_DATE: true
-          UPDATED_DATE_FORMAT: "MMM Do YYYY"
+          UPDATED_DATE_FORMAT: "%B %d, %Y"
           SHOW_LINES_OF_CODE: true
+          SHOW_LOC_CHART: false
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
           SHOW_OS: false
