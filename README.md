@@ -11,7 +11,7 @@
 
 ### 📫 Want to contact me?
 
-Shoot me an email at [gabriele.armento@gmail.com](mailto:gabrielearmento@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/gabrielearmento/)!
+Shoot me an email at [gabriele.armento@gmail.com](mailto:gabriele.armento@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/gabrielearmento/)!
 
 ### 👨‍🚀 Something about me  
 
@@ -41,7 +41,7 @@ const gabriele = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308.7%20thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                376 commits         ████████░░░░░░░░░░░░░░░░░   30.25 % 
@@ -49,7 +49,8 @@ const gabriele = {
 🌃 Evening                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday                   180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
@@ -61,8 +62,7 @@ Saturday                 52 commits          █░░░░░░░░░░�
 Sunday                   115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Berlin
@@ -82,7 +82,6 @@ genoleggiapp-frontend    1 hr 52 mins        ████░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/965311532/965311532/master/assets/bar_graph.png)
-
 
  Last Updated on MMM Do YYYY UTC
 <!--END_SECTION:waka-->
