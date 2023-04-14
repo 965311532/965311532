@@ -37,7 +37,7 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -68,14 +68,16 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               1 hr 39 mins        ███████████████░░░░░░░░░░   61.32 % 
-Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.68 % 
+JavaScript               3 hrs 28 mins       ███████████████░░░░░░░░░░   60.65 % 
+Python                   2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.75 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-genoleggiapp-frontend    1 hr 39 mins        ███████████████░░░░░░░░░░   61.32 % 
-genoleggiapp-backend     1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.68 % 
+genoleggiapp-frontend    3 hrs 28 mins       ███████████████░░░░░░░░░░   60.71 % 
+genoleggiapp-backend     2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
 ```
 
 
- Last Updated on April 13, 2023 UTC
+ Last Updated on April 14, 2023 UTC
 <!--END_SECTION:waka-->
