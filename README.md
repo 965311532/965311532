@@ -68,12 +68,12 @@ Sunday                   205 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-genoleggiapp-frontend    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on August 19, 2023 UTC
+ Last Updated on August 20, 2023 UTC
 <!--END_SECTION:waka-->
