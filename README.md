@@ -20,10 +20,10 @@ const gabriele = {
     languages: ["Javascript", "Python"],
     technologies: {
         backEnd: {
-            python: ["Flask"],
+            python: ["Flask", "Node.js"],
         },
         frontEnd: {
-            js: ["React"],
+            js: ["React", "Next"],
             css: ["bootstrap", "tailwindcss"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Render", "Vercel"],
