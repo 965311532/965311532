@@ -37,7 +37,7 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -68,14 +68,15 @@ Sunday                   288 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   29 mins             ███████████████░░░░░░░░░░   59.41 % 
-JavaScript               19 mins             ██████████░░░░░░░░░░░░░░░   40.59 % 
+Python                   1 hr 7 mins         ██████████████████████░░░   87.94 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-genoleggia-backend       29 mins             ███████████████░░░░░░░░░░   59.41 % 
-genoleggia-frontend      19 mins             ██████████░░░░░░░░░░░░░░░   40.59 % 
+genoleggia-backend       1 hr 7 mins         ██████████████████████░░░   87.94 % 
+genoleggia-frontend      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 ```
 
 
- Last Updated on March 26, 2024 UTC
+ Last Updated on March 27, 2024 UTC
 <!--END_SECTION:waka-->
