@@ -68,15 +68,12 @@ Sunday                   291 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ██████████████████░░░░░░░   71.77 % 
-Other                    39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-edopellonews.com         2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on May 14, 2024 UTC
+ Last Updated on May 15, 2024 UTC
 <!--END_SECTION:waka-->
