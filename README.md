@@ -76,5 +76,5 @@ MiniCPM-llama3-v-2_5-int40 secs              ███████░░░░�
 ```
 
 
- Last Updated on June 08, 2024 UTC
+ Last Updated on June 09, 2024 UTC
 <!--END_SECTION:waka-->
