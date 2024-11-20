@@ -68,15 +68,12 @@ Sunday                   322 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr                ███████████████████░░░░░░   77.92 % 
-JavaScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-genoleggia-backend       1 hr                ████████████████████░░░░░   78.25 % 
-genoleggia-frontend      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on November 19, 2024 UTC
+ Last Updated on November 20, 2024 UTC
 <!--END_SECTION:waka-->
