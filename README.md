@@ -37,7 +37,7 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -68,12 +68,16 @@ Sunday                   322 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               29 mins             ██████████████░░░░░░░░░░░   54.47 % 
+HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+CSS                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ludovica                 54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on March 16, 2025 UTC
+ Last Updated on March 17, 2025 UTC
 <!--END_SECTION:waka-->
