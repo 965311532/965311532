@@ -37,7 +37,7 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,15 +68,15 @@ Sunday                   497 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               49 mins             ████████████████░░░░░░░░░   65.11 % 
-Markdown                 24 mins             ████████░░░░░░░░░░░░░░░░░   31.60 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               49 mins             ████████████████░░░░░░░░░   62.71 % 
+Markdown                 24 mins             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-notes-for-ludovica       1 hr 16 mins        █████████████████████████   100.00 % 
+notes-for-ludovica       1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on January 07, 2026 UTC
+ Last Updated on January 08, 2026 UTC
 <!--END_SECTION:waka-->
