@@ -37,48 +37,10 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.48%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                6337 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-🌆 Daytime                12042 commits       █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌃 Evening                9666 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌙 Night                  3850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  5029 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Wednesday                4897 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 6564 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Friday                   4975 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 2690 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Sunday                   3068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   2 hrs 1 min         ██████████████░░░░░░░░░░░   56.56 % 
-TypeScript               1 hr                ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-🐱‍💻 Projects: 
-cube                     3 hrs 3 mins        █████████████████████░░░░   85.42 % 
-finances                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-```
-
-
- Last Updated on May 13, 2026 UTC
+ Last Updated on May 14, 2026 UTC
 <!--END_SECTION:waka-->
