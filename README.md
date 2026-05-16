@@ -37,8 +37,46 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.48%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2031%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.49%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6337 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌆 Daytime                12043 commits       █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌃 Evening                9666 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌙 Night                  3850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  5029 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                4897 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 6564 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Friday                   4976 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 2690 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   3068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
 
 
- Last Updated on May 15, 2026 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   36 mins             ██████████░░░░░░░░░░░░░░░   41.08 % 
+TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Markdown                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🐱‍💻 Projects: 
+cube                     1 hr 28 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on May 16, 2026 UTC
 <!--END_SECTION:waka-->
