@@ -41,6 +41,44 @@ const gabriele = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.49%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on June 02, 2026 UTC
+```text
+🌞 Morning                6338 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌆 Daytime                12043 commits       █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                9666 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌙 Night                  3851 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4673 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  5030 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                4897 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 6564 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Friday                   4976 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 2690 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   3068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+HTML                     2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.93 % 
+Python                   1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+
+🐱‍💻 Projects: 
+cube                     4 hrs 57 mins       █████████████████████████   99.69 % 
+hermes-agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+
+
+ Last Updated on June 03, 2026 UTC
 <!--END_SECTION:waka-->
