@@ -37,41 +37,8 @@ const gabriele = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.63%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6868 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                13460 commits       █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌃 Evening                11020 commits       ████████░░░░░░░░░░░░░░░░░   30.97 % 
-🌙 Night                  4237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  6091 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Wednesday                6000 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 7290 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Friday                   5119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Saturday                 2859 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Sunday                   3164 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.89%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on July 24, 2026 UTC
+ Last Updated on July 25, 2026 UTC
 <!--END_SECTION:waka-->
