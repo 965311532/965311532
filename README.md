@@ -41,26 +41,26 @@ const gabriele = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7052 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-🌆 Daytime                14001 commits       █████████░░░░░░░░░░░░░░░░   37.96 % 
-🌃 Evening                11433 commits       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌙 Night                  4399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌞 Morning                4561 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+🌆 Daytime                8799 commits        ██████████░░░░░░░░░░░░░░░   39.36 % 
+🌃 Evening                6598 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌙 Night                  2398 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Tuesday                  6357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Wednesday                6294 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Thursday                 7697 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Friday                   5197 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 2936 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Sunday                   3255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Monday                   3453 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Tuesday                  3616 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Wednesday                3487 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 4466 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Friday                   3456 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Saturday                 1822 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Sunday                   2056 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 
@@ -83,5 +83,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on August 02, 2026 UTC
+ Last Updated on August 03, 2026 UTC
 <!--END_SECTION:waka-->
